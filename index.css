@@ -1,7 +1,7 @@
 .homepage{
     background-color: #FCFCF9;
     width: 100%;
-    height: 850px;
+    height: 1000px;
     background: radial-gradient(circle at 0% -18%, #ebcaf7 11%, #fcfbf7 32%);
 }
 .navbar{
@@ -11,7 +11,7 @@
 }
 .logo{
     padding-left: 130px;
-    padding-top: 50px ;
+    padding-top: 17px ;
 }
 .button {
     background-color: #664EFC;
@@ -40,21 +40,19 @@
      margin-left: 770px;
      margin-top: -34px;
      font-family: 'DM Sans', sans-serif;
+     font-size: 20px;
   }
   .support{
       position: absolute;
       margin-top: -34px;
       padding-left: 900px;
       font-family: 'DM Sans', sans-serif;
+      font-size: 20px;
   }
-.tabmockup{
-    max-width: 550px;
-    margin-top: -233px;
-    position: absolute;
-    padding-left: 809px;
-  }
+
+
 .heading1{
-      font-size: 50px;
+      font-size: 60px;
       font-family: 'DM Sans', sans-serif;
       padding-left: 130px;
 
@@ -62,10 +60,10 @@
 .desciption1{
     padding-left: 130px;
     font-family: 'DM Sans', sans-serif;
-    font-size: 20px;
+    font-size: 19px;
     color: #969696;
     position: absolute;
-    margin-top: -15px;
+    margin-top: 14px;
 
   }
 .button1 {
@@ -78,7 +76,7 @@
     margin: 4px 2px;
     transition: 0.3s;
     margin-left: 130px;
-    margin-top: 55px;
+    margin-top: 90px;
     position: absolute;
     font-family: 'DM Sans', sans-serif;
     
@@ -94,7 +92,7 @@
 .usersavathar{
     position: absolute;
     padding-left:130px;
-    padding-top: 135px;
+    padding-top: 175px;
 }
 .avathartext{
     position: absolute;
@@ -102,9 +100,23 @@
     padding-left:130px;
     font-size: 20px;
     color: #969696;
-    padding-top: 175px;
+    padding-top: 235px;
 }
 .numberblue{
     color:#664EFC;
     font-weight: 700;
+}
+.tabmockup{
+  position: absolute;
+  max-width: 640px;
+  margin-left: 785px;
+  margin-top: -250px;
+}
+.body1{
+  padding-top: 100px;
+}
+.body2{
+  height: 500px;
+  width: 100%;
+  background-color: white;
 }
