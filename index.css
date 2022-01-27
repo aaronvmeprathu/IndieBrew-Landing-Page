@@ -116,7 +116,7 @@
   padding-top: 100px;
 }
 .body2{
-  height: 500px;
+  height: 1000px;
   width: 100%;
   background-color: white;
 }
@@ -147,4 +147,38 @@
   max-width: 450px;
   margin-left: 920px;
   margin-top: -220px;
+}
+.phonemockup{
+  position: absolute;
+  padding-left: 130px;
+  max-width: 650px;
+  margin-top: 70px;
+}
+.heading3{
+  position: absolute;
+  padding-left: 750px;
+  font-size: 40px;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: bold;
+  margin-top: 245px;
+
+}
+.discription3{
+  position: absolute;
+  padding-left: 750px;
+  color: #969696;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  padding-top: 360px;
+
+}
+.link3{
+  font-family: 'DM Sans', sans-serif;
+  color:#664EFC;
+    font-weight: 700;
+    padding-left:750px;
+    font-size: 20px;
+    padding-top:430px;
+
 }
