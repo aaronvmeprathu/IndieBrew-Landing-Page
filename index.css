@@ -66,23 +66,25 @@
     margin-top: 14px;
 
   }
-.buttons {
-    background-color: #664EFC;
-    border: 2px solid #664EFC;
-    color: #fcfbf7;
-    padding: 16px 32px;
-    text-align: center;
-    font-size: 16px;
-    margin: 4px 2px;
-    transition: 0.3s;
-    margin-left: 130px;
-    margin-top: 90px;
-    position: absolute;
-    font-family: 'DM Sans', sans-serif;
+.buttonend {
+  background-color: #664EFC;
+  border: 2px solid #664EFC;
+  color: #fcfbf7;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition: 0.3s;
+  cursor: pointer;
+  
+  margin-left: 130px;
+  margin-top: 100px;
+  position: absolute;
+  font-family: 'DM Sans', sans-serif;
     
   }
   
-  .buttons:hover {
+  .buttonend:hover {
     background-color: #fcfbf7;
     color: #664EFC;
     border-radius: 2px;
@@ -181,4 +183,172 @@
     font-size: 20px;
     padding-top:430px;
 
+}
+.footer{
+  width: 100%;
+  height: 350px;
+  background-color:#FCFCF9; 
+
+}
+.footerlogo{
+  color: #000;
+  font-weight: 900;
+  font-size: 25px;
+  font-family: 'DM Sans', sans-serif;
+  padding-left:130px;
+  padding-top: 100px;
+
+
+
+}
+.footerdescription{
+  color: #969696;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  padding-left:130px;
+
+}
+.footerdescription2{
+  color: #969696;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  padding-left:130px;
+
+}
+.Sitemap{
+  color: #000;
+  font-weight: 900;
+  font-size: 20px;
+  font-family: 'DM Sans', sans-serif;
+  padding-top: 100px;
+  position: absolute;
+  margin-top: -285px;
+  margin-left: 740px;
+
+}
+.Resources{
+  color: #000;
+  font-weight: 900;
+  font-size: 20px;
+  font-family: 'DM Sans', sans-serif;
+  padding-top: 100px;
+  position: absolute;
+  margin-top: -285px;
+  margin-left: 920px;
+
+}
+.Company{
+  color: #000;
+  font-weight: 900;
+  font-size: 20px;
+  font-family: 'DM Sans', sans-serif;
+  padding-top: 100px;
+  position: absolute;
+  margin-top: -285px;
+  margin-left: 1100px;
+}
+.Portfolios{
+  color: #000;
+  font-weight: 900;
+  font-size: 20px;
+  font-family: 'DM Sans', sans-serif;
+  padding-top: 100px;
+  position: absolute;
+  margin-top: -285px;
+  margin-left: 1265px;
+
+}
+.Homepage{
+  color: #969696;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  margin-left: 740px;
+  margin-top: -140px;
+
+}
+.Support{
+  color: #969696;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  margin-left: 920px;
+  margin-top: -40px;
+}
+.About{
+  color: #969696;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  margin-left: 1100px;
+  margin-top: -35px;
+}
+.Pricing{
+  color: #969696;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  margin-left: 740px;
+  margin-top: 0px;
+
+}
+.HackerNews{
+  color: #969696;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  margin-left: 1260px;
+  margin-top: -40px;
+  
+}
+.Contact{
+  color: #969696;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  margin-left: 920px;
+  margin-top: -40px;
+
+}
+.Customers{
+  color: #969696;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  margin-left: 1100px;
+  margin-top: -40px;
+}
+.Reddit{
+  color: #969696;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  margin-left: 1260px;
+  margin-top: -35px;
+}
+.FAQ{
+  color: #969696;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  margin-left: 920px;
+  margin-top: 0px;
+}
+.Blog{
+  color: #969696;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  margin-left: 1100px;
+  margin-top: -40px;
+}
+.Twitter{
+  color: #969696;
+  font-family: 'DM Sans', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  margin-left: 1260px;
+  margin-top: -40px;
 }
